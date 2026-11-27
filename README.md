@@ -18,4 +18,9 @@ namp -sC -sV -vv -O  -oN result.txt 10.10.10.3
 
 ### Feroxbuster
 
+```bash
+feroxbuster - u https://target.com -w wordlist.txt
+```
+
+
 
